@@ -1,0 +1,26 @@
+#wphs-calendar-wrap {
+    margin: 20px 30px 20px 0;
+    background-color: white;
+    padding: 40px;
+    border: 1px solid #e3e3e3;
+}
+
+#wphs-dialog label {
+    width: 50px;
+    margin-top: 10px;
+}
+
+#wphs-dialog select,
+#wphs-dialog input
+{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+
+#wpbody-content > form > table > tbody > tr:nth-child(2) {
+    display: none;
+}
